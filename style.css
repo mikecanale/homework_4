@@ -1,0 +1,9 @@
+.container {
+  font-family: "Anton", sans-serif;
+  text-align: center;
+  margin: auto;
+  width: 900px;
+}
+.btn {
+  background-color: purple;
+}
